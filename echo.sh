@@ -2,4 +2,4 @@
 echo "praveen Kumar"
 ls -a
 ls -lrt
-
+ls -lt
